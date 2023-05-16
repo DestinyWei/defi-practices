@@ -1,0 +1,26 @@
+{
+  "name": "defi-practices",
+  "version": "1.0.0",
+  "description": "区块链应用系统开发实践",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DestinyWei/defi-practices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DestinyWei/defi-practices/issues"
+  },
+  "homepage": "https://github.com/DestinyWei/defi-practices#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3"
+  },
+  "devDependencies": {
+    "hardhat": "^2.14.0"
+  }
+}
